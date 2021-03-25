@@ -1,3 +1,9 @@
+### React & Typescript, Ejemplo Práctico sencillo
+
+https://www.youtube.com/watch?v=IbJFERe9F9w&ab_channel=FaztCode
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
