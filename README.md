@@ -4,6 +4,14 @@ https://www.youtube.com/watch?v=IbJFERe9F9w&ab_channel=FaztCode
 
 ---
 
+<p align="center">
+    <a href="https://tasks-jonatandb.netlify.app/">
+        <img src="ScreenShot.png" alt="Tasks app - Hecho con ❤ por Jonatandb!"/>
+    </a>
+</p>
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
